@@ -38,7 +38,15 @@ composer dump-autoload
 ```
 now u can use api like this 
 ```
+use Seymur\Currency\Facades\Currency;
+ //...
+
     Currency::get();
+```
+
+or you can use 
+```
+\Seymur\Currency\Facades\Currency::get()
 ```
 for searching currency rate use currency code example:
 ```
