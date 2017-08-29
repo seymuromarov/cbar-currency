@@ -1,0 +1,13 @@
+{
+    "name": "seymur/currency",
+    "description": "Currency api of Central Bank Of Azerbaijan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seymur Omarov",
+            "email": "omarov.seymur@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
